@@ -1,2 +1,1 @@
-# abstract_factory_apresentation
-# singleton_to_learn
+Código para apresentação no trabalho sobre o que é o desing-pattern Singleton
